@@ -10,7 +10,7 @@ Follow the basic steps to run the application.
 
 1.) Navigate to `CRUD_APP_BACKEND` folder.
 
-2.) Type `npm i` or `npm install` to install all the dependencies.
+2.) In terminal type `npm i` or `npm install` to install all the dependencies.
 
 3.) Type `nodemon server.js` to start `node server`
 
